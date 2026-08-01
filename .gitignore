@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.venv-*/
+*.egg-info/
+
+# Node
+node_modules/
+.next/
+dist/
+.astro/
+
+# Verktyg
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+
+# Maskinspecifikt — hör aldrig hemma i repot
+CLAUDE.local.md
