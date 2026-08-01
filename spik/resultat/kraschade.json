@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "p-2026-0001",
+    "parti": "s",
+    "kategori": "övrigt",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0002",
+    "parti": "s",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0003",
+    "parti": "s",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0004",
+    "parti": "s",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0005",
+    "parti": "s",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0008",
+    "parti": "s",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0009",
+    "parti": "s",
+    "kategori": "infrastruktur",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0010",
+    "parti": "s",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0012",
+    "parti": "s",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0013",
+    "parti": "s",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0015",
+    "parti": "s",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0019",
+    "parti": "s",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0020",
+    "parti": "s",
+    "kategori": "försvar",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0022",
+    "parti": "s",
+    "kategori": "övrigt",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0023",
+    "parti": "s",
+    "kategori": "rättsväsende",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0024",
+    "parti": "s",
+    "kategori": "övrigt",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0025",
+    "parti": "m",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0027",
+    "parti": "m",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0029",
+    "parti": "m",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0030",
+    "parti": "m",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0031",
+    "parti": "m",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0034",
+    "parti": "m",
+    "kategori": "rättsväsende",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0040",
+    "parti": "m",
+    "kategori": "försvar",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0042",
+    "parti": "m",
+    "kategori": "försvar",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0045",
+    "parti": "m",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0046",
+    "parti": "m",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0049",
+    "parti": "m",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0051",
+    "parti": "m",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0062",
+    "parti": "m",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0068",
+    "parti": "m",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0069",
+    "parti": "m",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0071",
+    "parti": "m",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0073",
+    "parti": "m",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0074",
+    "parti": "m",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0075",
+    "parti": "m",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0084",
+    "parti": "m",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0085",
+    "parti": "m",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0086",
+    "parti": "m",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0087",
+    "parti": "m",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0088",
+    "parti": "m",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0089",
+    "parti": "m",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0093",
+    "parti": "l",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0095",
+    "parti": "l",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0097",
+    "parti": "l",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0098",
+    "parti": "l",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0102",
+    "parti": "kd",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0103",
+    "parti": "kd",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0104",
+    "parti": "kd",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0105",
+    "parti": "kd",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0106",
+    "parti": "kd",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0108",
+    "parti": "kd",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0111",
+    "parti": "kd",
+    "kategori": "infrastruktur",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0112",
+    "parti": "kd",
+    "kategori": "övrigt",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0113",
+    "parti": "kd",
+    "kategori": "övrigt",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0114",
+    "parti": "kd",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0115",
+    "parti": "kd",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0118",
+    "parti": "kd",
+    "kategori": "övrigt",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0119",
+    "parti": "kd",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0120",
+    "parti": "sd",
+    "kategori": "rättsväsende",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0121",
+    "parti": "sd",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0122",
+    "parti": "sd",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0123",
+    "parti": "sd",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0124",
+    "parti": "sd",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0125",
+    "parti": "sd",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0126",
+    "parti": "sd",
+    "kategori": "försvar",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0129",
+    "parti": "v",
+    "kategori": "övrigt",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0130",
+    "parti": "v",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0132",
+    "parti": "v",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0133",
+    "parti": "v",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0134",
+    "parti": "v",
+    "kategori": "infrastruktur",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0135",
+    "parti": "v",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0136",
+    "parti": "v",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0138",
+    "parti": "v",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0139",
+    "parti": "v",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0140",
+    "parti": "c",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0143",
+    "parti": "c",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0144",
+    "parti": "c",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0145",
+    "parti": "c",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0146",
+    "parti": "c",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0148",
+    "parti": "l",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0156",
+    "parti": "l",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0157",
+    "parti": "l",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0160",
+    "parti": "kd",
+    "kategori": "försvar",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0161",
+    "parti": "m",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0162",
+    "parti": "m",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0164",
+    "parti": "m",
+    "kategori": "försvar",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0165",
+    "parti": "m",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0167",
+    "parti": "m",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0168",
+    "parti": "m",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0169",
+    "parti": "m",
+    "kategori": "rättsväsende",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0171",
+    "parti": "c",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0172",
+    "parti": "c",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0176",
+    "parti": "sd",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0188",
+    "parti": "s",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0210",
+    "parti": "v",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0216",
+    "parti": "v",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0217",
+    "parti": "v",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0252",
+    "parti": "c",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0254",
+    "parti": "c",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0268",
+    "parti": "c",
+    "kategori": "övrigt",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0279",
+    "parti": "s",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0312",
+    "parti": "c",
+    "kategori": "övrigt",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0315",
+    "parti": "c",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0316",
+    "parti": "c",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0317",
+    "parti": "c",
+    "kategori": "infrastruktur",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0318",
+    "parti": "c",
+    "kategori": "rättsväsende",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0319",
+    "parti": "c",
+    "kategori": "försvar",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0326",
+    "parti": "mp",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0328",
+    "parti": "mp",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0329",
+    "parti": "mp",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0330",
+    "parti": "mp",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0331",
+    "parti": "mp",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0335",
+    "parti": "mp",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0342",
+    "parti": "c",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0343",
+    "parti": "c",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0344",
+    "parti": "c",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0347",
+    "parti": "c",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0354",
+    "parti": "c",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0363",
+    "parti": "c",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0394",
+    "parti": "l",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0396",
+    "parti": "l",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0402",
+    "parti": "l",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0408",
+    "parti": "mp",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0411",
+    "parti": "mp",
+    "kategori": "försvar",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0413",
+    "parti": "mp",
+    "kategori": "försvar",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0418",
+    "parti": "mp",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0419",
+    "parti": "mp",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0420",
+    "parti": "mp",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0422",
+    "parti": "mp",
+    "kategori": "övrigt",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0438",
+    "parti": "mp",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0450",
+    "parti": "mp",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0452",
+    "parti": "v",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0453",
+    "parti": "v",
+    "kategori": "infrastruktur",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0454",
+    "parti": "v",
+    "kategori": "klimat-miljö",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0455",
+    "parti": "v",
+    "kategori": "rättsväsende",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0456",
+    "parti": "mp",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0457",
+    "parti": "mp",
+    "kategori": "övrigt",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0464",
+    "parti": "l",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0470",
+    "parti": "mp",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0473",
+    "parti": "mp",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0474",
+    "parti": "v",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0475",
+    "parti": "s",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0476",
+    "parti": "s",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0477",
+    "parti": "s",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0478",
+    "parti": "c",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0482",
+    "parti": "mp",
+    "kategori": "rättsväsende",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0487",
+    "parti": "l",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0492",
+    "parti": "s",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0497",
+    "parti": "c",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0499",
+    "parti": "c",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0507",
+    "parti": "s",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0509",
+    "parti": "v",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0512",
+    "parti": "sd",
+    "kategori": "rättsväsende",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0517",
+    "parti": "mp",
+    "kategori": "rättsväsende",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0525",
+    "parti": "mp",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0526",
+    "parti": "mp",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0527",
+    "parti": "sd",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0530",
+    "parti": "mp",
+    "kategori": "migration",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0535",
+    "parti": "s",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0537",
+    "parti": "l",
+    "kategori": "skatter",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0538",
+    "parti": "v",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0539",
+    "parti": "v",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0543",
+    "parti": "c",
+    "kategori": "välfärd",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0549",
+    "parti": "l",
+    "kategori": "utbildning",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  },
+  {
+    "id": "p-2026-0550",
+    "parti": "sd",
+    "kategori": "övrigt",
+    "msek_base": 0,
+    "typ": "ValueError",
+    "fel": "Budget must be positive, got 0"
+  }
+]

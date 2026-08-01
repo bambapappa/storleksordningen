@@ -1,0 +1,42 @@
+{
+  "grant": {
+    "name": "grant",
+    "h_scale": 1.0,
+    "t_scale": 0.05,
+
+    "ford_species": {
+      "1": "oak",
+      "2": "pine",
+      "3": "birch",
+      "4": "willow",
+      "5": "maple",
+      "6": "elm",
+      "7": "aspen",
+      "8": "rowan",
+      "9": "spruce"
+    },
+    "ford_species_default": "oak",
+
+    "trl_phases": {
+      "1": "seed",
+      "3": "sprout",
+      "5": "sapling",
+      "9": "mature_tree"
+    },
+    "phase_unclassified": "unclassified",
+
+    "biome_keywords": {
+      "s": ["socialdemokraterna"],
+      "m": ["moderaterna"],
+      "sd": ["sverigedemokraterna"],
+      "c": ["centerpartiet"],
+      "v": ["vänsterpartiet"],
+      "kd": ["kristdemokraterna"],
+      "l": ["liberalerna"],
+      "mp": ["miljöpartiet"]
+    },
+    "biome_default": "delat",
+
+    "max_trunk_count": 6
+  }
+}

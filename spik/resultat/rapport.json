@@ -1,0 +1,61 @@
+{
+  "körd": "spik/spik.py",
+  "källa": {
+    "api": "https://utlovat.se/api/v1",
+    "hv_api": "https://utlovat.se/handlingsvagen/api/hv"
+  },
+  "in": {
+    "löften": 428,
+    "partier": 8
+  },
+  "ut": {
+    "scener": 263,
+    "kraschade": 165
+  },
+  "deterministisk": true,
+  "höjd": {
+    "min": 0.3010299956639812,
+    "max": 5.494154594018442,
+    "spann_tiopotenser": 5.193124598354461
+  },
+  "biom": {
+    "mp": 67,
+    "c": 62,
+    "m": 46,
+    "l": 33,
+    "s": 20,
+    "sd": 16,
+    "v": 11,
+    "kd": 8
+  },
+  "art": {
+    "oak": 63,
+    "pine": 42,
+    "birch": 36,
+    "elm": 35,
+    "willow": 27,
+    "maple": 26,
+    "spruce": 15,
+    "aspen": 13,
+    "rowan": 6
+  },
+  "fas": {
+    "seed": 247,
+    "mature_tree": 14,
+    "sapling": 1,
+    "sprout": 1
+  },
+  "grenar": {
+    "1": 207,
+    "2": 28,
+    "3": 10,
+    "5": 6,
+    "4": 5,
+    "6": 3,
+    "7": 2,
+    "10": 1
+  },
+  "kraschorsaker": {
+    "Budget must be positive": 165
+  }
+}
